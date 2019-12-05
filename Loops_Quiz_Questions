@@ -1,0 +1,16 @@
+Loops Questions
+
+Question 1: What are the two kind of loops?
+a. Run Loop, Back Loop
+b. For Loop, While Loop
+c. Reverse Loop, Forward Loop
+
+Question 2: How many times will for(var i = 0; i < 10; i++) run?
+a. 0
+b. 2
+c. 10
+
+Question 3: How many times will while(i < 10) run if i = 0?
+a. 0
+b. Infinitely many times
+c. 10
